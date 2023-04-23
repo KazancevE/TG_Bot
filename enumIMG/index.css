@@ -1,0 +1,11 @@
+.highLighting {
+    border: solid red 2px;
+}
+
+.inputHide{
+    visibility: hidden;
+}
+
+.inputVisible {
+    visibility: visible;
+}
